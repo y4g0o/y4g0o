@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=58A6FF&center=true&width=750&lines=Hey%2C+I'm+Yago+Macambira+%F0%9F%91%8B;Backend+%26+AI+Engineer;Django+%7C+PostgreSQL+%7C+LLM+Agents;I+turn+ambiguity+into+action+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=58A6FF&center=true&width=750&lines=Hey%2C+I'm+Yago+Macambira+%F0%9F%91%8B;Backend+%26+AI+Engineer;Django+%7C+PostgreSQL+%7C+LLM+Agents;I+Love+Backend+AI+and+Linux%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
