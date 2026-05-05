@@ -65,7 +65,7 @@ yago = {
 
 ## 🔬 Featured Project
 
-<a href="https://github.com/y4g0o/C-D-A">
+<a href="https://github.com/y4g0o/C-D-H.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y4g0o&repo=C-D-A&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
 </a>
 
