@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=58A6FF&center=true&width=760&lines=Hey%2C+I'm+Yago+Macambira+%F0%9F%91%8B;Backend+Python+%C2%B7+Integrations+%C2%B7+AI+Agents;I+build+systems+that+run+in+production" alt="Typing SVG" />
 
-**Backend developer · B.Sc. Computer Science @ IFCE · Ceará, Brazil (remote)**
+**Backend developer · B.Sc. Computer Science @ IFCE · Ceará, Brazil **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagomacambira)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagomacambira123@gmail.com)
