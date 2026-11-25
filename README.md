@@ -50,6 +50,7 @@ Bidirectional CRM ⇄ HubSpot sync with reconciliation, orphan detection and ide
 
 ### 🔬 Featured projects
 
+- 🧠 **[agno-local-agents](https://github.com/y4g0o/agno-local-agents)** — a multi-agent system that runs 100% locally (Agno 3 + Ollama): a coordinator Team, a shell agent where every command needs human approval, MCP tools, hybrid RAG on LanceDB, SQLite memory, and an evaluation harness that picks models by measurement (delegation, approval requests, invented output).
 - 📄 **[pre-delegation-clarification](https://github.com/y4g0o/pre-delegation-clarification)** — my thesis: an empirical study of *when* structured task clarification before delegation pays off in Supervisor–Worker multi-agent systems on small **local** LLMs (≤ 9B). LangGraph supervisor with structured outputs and guards, ReAct workers, 6 benchmarks, up to 6 models, 100+ tasks. Analysis plan registered before execution, blind Likert evaluation, reproducible scripts, documented limitations.
 - 🤖 **[atende-ai](https://github.com/y4g0o/atende-ai)** — an AI helpdesk engine: support procedures become auditable skills (YAML), with mandatory human approval, tool allowlist, audit log and PII redaction before any LLM call.
 - 💰 **[fAInance](https://github.com/y4g0o/fAInance)** — local, deterministic personal finance: imports OFX/CSV/PDF with reconciliation, learns fixed costs, robust anomaly detection. No number comes from an LLM.
